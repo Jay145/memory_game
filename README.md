@@ -31,8 +31,16 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
 
+A full game:
+![](https://i.imgur.com/cV4GOQF.gif)
+![](https://i.imgur.com/G6vwvwa.gif)
+
+Start/stop and mistakes/losing game functionality:
+![](https://i.imgur.com/vS997tp.gif)
+
+timer functionality:
+![](https://i.imgur.com/ZCAgvbK.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
